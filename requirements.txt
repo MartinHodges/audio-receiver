@@ -1,0 +1,7 @@
+# install with pip install -r rx_requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
+flask
+librosa
+matplotlib
+torch
+tqdm
+torchlibrosa
